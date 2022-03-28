@@ -36,5 +36,7 @@ menu:
   main:
   - url: https://gps.gotrack.vn
     name: Vehicle Trackers
-    parent: Contact
+    parent: Product
     weight: 1
+  - name: Product
+    weight: 2
